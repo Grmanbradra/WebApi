@@ -1,0 +1,12 @@
+{
+    "name": "test-get-title-pdf",
+    "authors": [
+        {
+            "name": "Sathaporn Sunthornpan",
+            "email": "dd.stitch55@gmail.com"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "*"
+    }
+}
